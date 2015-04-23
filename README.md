@@ -2,6 +2,7 @@
 
 dump the manifest with androguard
 
+Requires runner.sh from https://github.com/dweinstein/analysis-runner
 
 # USAGE
 
